@@ -23,6 +23,11 @@ A hands-on Excel project analyzing 50 sales transactions to extract business ins
 ## Key Insight Example
 Chennai region generated ₹6,39,050 in total revenue — identified instantly using SUMIF instead of manual filtering.
 
+## Lookup Functions Added
+- VLOOKUP for product price lookup
+- XLOOKUP as the modern alternative (no column counting needed)
+- IFERROR wrapping to handle missing values gracefully
+
 ## Tools Used
 Microsoft Excel
 
