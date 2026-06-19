@@ -28,6 +28,20 @@ Chennai region generated ₹6,39,050 in total revenue — identified instantly u
 - XLOOKUP as the modern alternative (no column counting needed)
 - IFERROR wrapping to handle missing values gracefully
 
+## Project Status: Complete ✅
+
+This project covers the full Excel analytics workflow:
+1. Formulas (SUM, IF, SUMIF, COUNTIF)
+2. Pivot Tables & Pivot Charts
+3. VLOOKUP, XLOOKUP, and error handling
+4. Data Cleaning (duplicates, blanks, invalid values)
+5. Final interactive Dashboard with KPIs and visualizations
+
+## Dashboard Highlights
+- Total Revenue: ₹46,07,950
+- Top Performing Region: Mumbai
+- Top Salesperson: Karthik
+
 ## Tools Used
 Microsoft Excel
 
